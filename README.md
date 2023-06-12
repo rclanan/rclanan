@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/rclanan" target="blank"><img src="https://img.shields.io/twitter/follow/rclanan?logo=twitter&style=for-the-badge" alt="rclanan" /></a> </p>
 
-- 🔭 I’m currently working on [Valacity](https://valacity.com/)
-
-- 📝 I regularly write articles on [https://noutc.com/blog/](https://noutc.com/blog/)
-
-- 📫 How to reach me **ray@noutc.com**
+- 📫 How to reach me **rclanan@utopianconcept.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/raymondclanan/](https://www.linkedin.com/in/raymondclanan/)
 
