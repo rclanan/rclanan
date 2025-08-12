@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ray Clanan</h1>
-<h3 align="center">Driven Full-Stack Developer from Indiana, Crafting Innovative Web Solutions with Passion</h3>
+<h3 align="center">AI Engineer — Edge LLM apps on Cloudflare (Rust/WASM, TypeScript, .NET). I ship fast, reliable, cost‑aware AI features.</h3>
 
+- Focus: RAG, agents with tool use, structured outputs, eval harnesses, observability
+- Infra: Cloudflare Workers/D1/Queues/KV • Rust/WASM • TypeScript • .NET • Azure OpenAI
+- Results: p95 latency down 40–70% with edge patterns; 25–60% token cost cuts via caching/token discipline
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rclanan&label=Profile%20views&color=0e75b6&style=flat" alt="rclanan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rclanan" alt="rclanan" /></a> </p>
