@@ -1,48 +1,43 @@
 # Raymond Clanan
 
-Production AI, search, and backend systems built with an operator's discipline.
+CTO at [SaaSier Inc.](https://saasierinc.com/), [SaaSy Solutions LLC](https://saasysolutionsllc.com/), and [Hive Minded AI](https://hiveminded.ai/).
 
-I work with teams that need real systems, not demo theater: retrieval, routing, observability, performance, and delivery that holds up after launch.
+I build production AI, search, and backend systems, and stay hands-on with architecture, code, and operations. My background spans federal modernization, enterprise platforms, and product-led SaaS.
 
-## What I do
+## Current work
 
-- Production AI: multi-provider routing, budget controls, eval loops, and quality guardrails
-- Search and RAG: pgvector pipelines, citations, re-ranking, ingestion, and freshness
-- Backend systems: low-latency services in Rust and .NET with strong logs, traces, and metrics
+- [Hive Minded AI](https://hiveminded.ai/): technical architecture and development for a beekeeping operations platform, connecting inspections, colony records, and AI-assisted insights.
+- [MockForge](https://mockforge.dev/): creator and maintainer of an open-source, Rust-based API mocking and service virtualization framework, with multi-protocol support, realistic data generation, and fault injection.
+- [CodeDig](https://codedig.ai/): pull-request risk and blast-radius analysis, including test gaps and security-relevant changes.
+- [HelloSaaSy.ai](https://hellosaasy.ai/): back-office software connecting CRM, project delivery, invoicing, and operational workflows.
 
-## Why teams bring me in
+## Public engineering work
 
-- 22+ launches across federal modernization, enterprise platforms, and product-led SaaS
-- Proven outcomes: 60% lower latency and 30% lower model spend on LLM routing engagements
-- 20+ years building software in regulated, distributed, and high-change environments
-- Creator of [MockForge](https://mockforge.dev), an open-source API mocking platform with AI-powered features
+[MockForge's source](https://github.com/SaaSy-Solutions/mockforge) and [release history](https://github.com/SaaSy-Solutions/mockforge/releases) show the implementation and ongoing maintenance.
 
-## Start here
+One concrete example: [valid JSON streaming in the benchmark runner](https://github.com/SaaSy-Solutions/mockforge/commit/0f6b8dc41749a772a8bf59a32d3254e3d336e784), with request-body generation, regression tests, and documentation in the same change.
 
-- [Portfolio](https://raymondclanan.com)
-- [Start Here](https://raymondclanan.com/start-here/)
-- [Case Studies](https://raymondclanan.com/case-studies/)
-- [Blog](https://raymondclanan.com/blog/)
-- [How I Work](https://raymondclanan.com/how-i-work/)
-- [Hire Me](https://raymondclanan.com/hire/)
+## Engineering focus
 
-## Selected work
+- Production AI: multi-provider routing, budget controls, evaluation loops, and quality guardrails
+- Search and RAG: retrieval pipelines, citations, re-ranking, ingestion, and freshness
+- Backend systems: Rust and .NET services with logs, traces, and metrics
 
-- [MockForge](https://github.com/SaaSy-Solutions/mockforge): API mocking with AI-assisted data generation and multi-protocol support
-- [Multi-provider LLM routing](https://raymondclanan.com/case-studies/#multi-provider-llm-routing): lower latency, tighter cost control, better observability
-- [Cloud-agnostic CQRS framework](https://raymondclanan.com/case-studies/#volvo-cqrs-framework): improved delivery speed across distributed teams
-- [RAG on Azure + pgvector](https://raymondclanan.com/case-studies/#rag-azure): retrieval systems with stronger accuracy and traceability
+Selected case studies:
+- [Multi-provider LLM routing](https://raymondclanan.com/case-studies/#multi-provider-llm-routing): routing, cost controls, and observability
+- [Cloud-agnostic CQRS framework](https://raymondclanan.com/case-studies/#volvo-cqrs-framework): event-driven architecture for distributed teams
+- [RAG on Azure + pgvector](https://raymondclanan.com/case-studies/#rag-on-azure): retrieval, evaluation, and traceability
 
 ## Writing
 
-- [Production AI tooling stack and why](https://raymondclanan.com/blog/production-ai-tooling-stack-and-why/)
-- [What good automation looks like before we start](https://raymondclanan.com/blog/what-good-automation-looks-like-before-we-start/)
+- [The Model Filled the Form. Then It Overwrote the Field a Human Fixed.](https://raymondclanan.com/blog/model-proposes-record-decides/)
+- [What 225 Releases Taught Me About Shipping](https://raymondclanan.com/blog/what-225-releases-taught-me-about-shipping/)
 - [My AI delivery principles](https://raymondclanan.com/blog/my-ai-delivery-principles/)
 
-## Contact
+## Find me
 
-- Email: [rclanan@utopianconcept.com](mailto:rclanan@utopianconcept.com)
-- LinkedIn: [linkedin.com/in/raymondclanan](https://www.linkedin.com/in/raymondclanan)
-- GitHub: [github.com/rclanan](https://github.com/rclanan)
+- [Personal site](https://raymondclanan.com/) · [Start here](https://raymondclanan.com/start-here/) · [How I work](https://raymondclanan.com/how-i-work/)
+- [LinkedIn](https://www.linkedin.com/in/raymondclanan)
+- [ray.clanan@saasysolutionsllc.com](mailto:ray.clanan@saasysolutionsllc.com)
 
-Open to remote consulting and contract work for production AI, search, platform, and backend engineering.
+My primary focus is leading and building these products. Consulting inquiries go through [SaaSy Solutions LLC](https://saasysolutionsllc.com/).
